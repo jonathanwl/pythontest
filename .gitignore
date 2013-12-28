@@ -1,0 +1,8 @@
+
+# Package Files #
+
+*.idea/
+*.log
+*.log.*
+*.pyc
+*.db
